@@ -4,7 +4,7 @@ import time
 class Benchmarking:
 
     def __init__(self):
-        print("\n----- Benchmarking funcionando -----")
+        print("\n----- Benchmarking Iniciando -----")
 
     def build_arreglo(self, size):
         arreglo = []

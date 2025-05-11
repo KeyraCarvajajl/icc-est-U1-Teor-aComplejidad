@@ -7,7 +7,7 @@ if __name__ == "__main__":
     benchmarking = Benchmarking()
     sortMethods = SortMethods()
 
-    tamanios = [500, 600, 700]
+    tamanios = [5000, 10000, 30000, 50000, 100000]
     max_tamanio = max(tamanios)
     arreglo_base = benchmarking.build_arreglo(max_tamanio)
 
