@@ -28,23 +28,24 @@ El archivo sortMethods.py nos sirve para crear todos los métodos de ordenamient
 ## Resultados Obtenidos🔧
 
 ### 1.- Métodos de Ordenamiento en un arreglo de 5000
-![Arreglo de 5000](/icc-est-U1-Teor-aComplejidad/src_python/img/imagen1.png)
+![Arreglo de 5000](src_python/img/imagen1.png)
 
 ### 2.- Métodos de Ordenamiento en un arreglo de 10.000
-![Arreglo de 10.000](/icc-est-U1-Teor-aComplejidad/src_python/img/imagen2.png)
+![Arreglo de 10.000](src_python/img/imagen2.png)
+
 
 ### 3.- Métodos de Ordenamiento en un arreglo de 30.000
-![Arreglo de 30.000](/icc-est-U1-Teor-aComplejidad/src_python/img/imagen3.png))
+![Arreglo de 30.000](/src_python/img/imagen3.png)
 
 
 ### 4.- Métodos de Ordenamiento en un arreglo de 50.000
-![Arreglo de 50.000](/icc-est-U1-Teor-aComplejidad/src_python/img/imagen4.png)
+![Arreglo de 50.000](src_python/img/imagen4.png)
 
 ### 5.- Métodos de Ordenamiento en un arreglo de 100.000
-![Arreglo de 100.000](/icc-est-U1-Teor-aComplejidad/src_python/img/imagen5.png)
+![Arreglo de 100.000](src_python/img/imagen5.png)
 
 ## Gráfica  -  Métodos de Ordenamiento 🔧
-![Gráfica Representativa](/icc-est-U1-Teor-aComplejidad/src_python/img/grafica.png)
+![Gráfica](src_python/img/grafica.png)
 
 
 ##  Conclusiones con Terminología de Notación - Diana Borja
