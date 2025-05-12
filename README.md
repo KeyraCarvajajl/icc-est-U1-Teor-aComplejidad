@@ -44,7 +44,7 @@ El archivo sortMethods.py nos sirve para crear todos los métodos de ordenamient
 ![Arreglo de 100.000](/icc-est-U1-Teor-aComplejidad/src_python/img/imagen5.png)
 
 ## Gráfica  -  Métodos de Ordenamiento 🔧
-![Arreglo de 100.000](/icc-est-U1-Teor-aComplejidad/src_python/img/grafica.png)
+![Gráfica Representativa](/icc-est-U1-Teor-aComplejidad/src_python/img/grafica.png)
 
 
 ##  Conclusiones con Terminología de Notación - Diana Borja
