@@ -34,7 +34,7 @@ El archivo sortMethods.py nos sirve para crear todos los métodos de ordenamient
 ![Arreglo de 10.000](/icc-est-U1-Teor-aComplejidad/src_python/img/imagen2.png)
 
 ### 3.- Métodos de Ordenamiento en un arreglo de 30.000
-![Arreglo de 30.000](/icc-est-U1-Teor-aComplejidad/src_python/img/imagen3.png)
+![Arreglo de 30.000](/icc-est-U1-Teor-aComplejidad/src_python/img/imagen3.png))
 
 
 ### 4.- Métodos de Ordenamiento en un arreglo de 50.000
